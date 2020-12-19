@@ -1,8 +1,8 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: "✨ Level Builder Enhancement"
+about: Suggest an idea to improve KDS Level Builder.
 title: ''
-labels: enhancement
+labels: enhancement, wontfix
 assignees: ''
 
 ---

@@ -1,8 +1,8 @@
 ---
-name: "\U0001F41BBug Report"
-about: Create a report to help us improve Koponen Dating Simulator.
+name: "\U0001F41E Level Builder Bug report"
+about: Create a report to help us improve KDS Level Builder.
 title: ''
-labels: bug
+labels: bug, wontfix
 assignees: ''
 
 ---
@@ -16,14 +16,15 @@ Clear steps to reproduce the behaviour.
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Log File**
-Your latest log file located in: `%AppData%/KL Corporation/Koponen Dating Simulator/logs`
-
 **Screenshots**
 If applicable, add screenshots here to help explain your problem.
 
 **System (please complete the following information):**
  - OS: [e.g. Windows]
+ - Version: [e.g. 20H2]
+ - Type: [e.g. 64bit]
+
+**Game (Game information, not Level Builder):**
  - Version [e.g. 0.0.1-dev]
 
 **Additional context**
