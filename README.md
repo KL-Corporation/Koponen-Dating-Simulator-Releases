@@ -1,3 +1,15 @@
+### Releases of some legacy KDS versions
+> [!NOTE]
+> These releases are **NOT** up-to-date versions of KDS! \
+> The latest releases of KDS can be found [here](https://github.com/KL-Corporation/Koponen-Dating-Simulator/releases).
+
+<br />
+<br />
+<br />
+
+<details>
+<summary>old readme</summary>
+
 # Koponen-Dating-Simulator
 [<img align="left" alt="Koponen Dating Simulator" width="128px" src="https://i.imgur.com/kVjnUHx.png" />][repo]
 
@@ -36,3 +48,4 @@
 [gitLink]: https://git-scm.com
 [gitHubLink]: https://github.com
 [stackOverflowLink]: https://stackoverflow.com
+</details>
